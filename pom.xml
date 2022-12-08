@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>DaoProdotti2</artifactId>
+    <artifactId>DaoProdotti</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -13,16 +13,5 @@
         <maven.compiler.target>11</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-
-
-    <dependencies>
-        <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
-        <dependency>
-            <groupId>mysql</groupId>
-            <artifactId>mysql-connector-java</artifactId>
-            <version>8.0.31</version>
-        </dependency>
-    </dependencies>
-
 
 </project>
